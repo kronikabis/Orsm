@@ -1,0 +1,17 @@
+#!/bin/bash
+
+thisday=$(date +%a)
+today=$(date --date="today" +%Y%m%d)
+lastday=$(date --date="last thursday" +%Y%m%d)
+
+if [ "$thisday" != "Thu" ]
+then
+	num=$(/home/mick/bin/datediff $today $lastday)
+	while [ $num -lt "4600" ]; do 
+		day=`date --date="$num days ago" +%Y%m%d`
+		wget -r -c http://grab.orsm.net/update$day/
+		num=`expr $num + 7`
+	done
+else
+	 wget -r -c http://grab.orsm.net/update$day/
+fi

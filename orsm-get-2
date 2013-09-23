@@ -1,0 +1,11 @@
+#!/bin/bash
+dir=/home/mick/orsmvids
+date_calc=$1_$2
+if [ ! -d $dir/orsm.net$date_calc ]; then
+	mkdir $dir/orsm.net$date_calc
+fi
+cd $dir/orsm.net$date_calc
+wget -c www.orsm.net/archive_$date_calc.php -O index.html
+for i in `cat index.html|grep mp4 |sed -e 's/<img[^>]*>//g' -e 's/>[^<,]*<//g' -e 's/\"\/a>//g' -e 's/<div[^>]*\"//g' -e 's/\"\ t[^>]*>//g' -e 's/<t[^>]*"//g' | grep -v href | sed -e 's/^[ ]*//' |tr -d '\r' | sed 's@php/movies.php?file=@@g'`; do
+wget -c $i
+done

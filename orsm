@@ -1,0 +1,149 @@
+#!/bin/bash
+
+/home/mick/bin/orsm-get-2 jan 00
+/home/mick/bin/orsm-get-2 jan 01 
+/home/mick/bin/orsm-get-2 jan 02
+/home/mick/bin/orsm-get-2 jan 03
+/home/mick/bin/orsm-get-2 jan 04
+/home/mick/bin/orsm-get-2 jan 05
+/home/mick/bin/orsm-get-2 jan 06 
+/home/mick/bin/orsm-get-2 jan 07
+/home/mick/bin/orsm-get-2 jan 08
+/home/mick/bin/orsm-get-2 jan 09
+/home/mick/bin/orsm-get-2 jan 10
+
+/home/mick/bin/orsm-get-2 feb 00
+/home/mick/bin/orsm-get-2 feb 01
+/home/mick/bin/orsm-get-2 feb 02
+/home/mick/bin/orsm-get-2 feb 03
+/home/mick/bin/orsm-get-2 feb 04
+/home/mick/bin/orsm-get-2 feb 05
+/home/mick/bin/orsm-get-2 feb 06 
+/home/mick/bin/orsm-get-2 feb 07
+/home/mick/bin/orsm-get-2 feb 08
+/home/mick/bin/orsm-get-2 feb 09
+/home/mick/bin/orsm-get-2 feb 10
+
+
+/home/mick/bin/orsm-get-2 mar 00
+/home/mick/bin/orsm-get-2 mar 01
+/home/mick/bin/orsm-get-2 mar 02
+/home/mick/bin/orsm-get-2 mar 03
+/home/mick/bin/orsm-get-2 mar 04
+/home/mick/bin/orsm-get-2 mar 05
+/home/mick/bin/orsm-get-2 mar 06 
+/home/mick/bin/orsm-get-2 mar 07
+/home/mick/bin/orsm-get-2 mar 08
+/home/mick/bin/orsm-get-2 mar 09
+/home/mick/bin/orsm-get-2 mar 10
+
+/home/mick/bin/orsm-get-2 apr 00
+/home/mick/bin/orsm-get-2 apr 01
+/home/mick/bin/orsm-get-2 apr 02
+/home/mick/bin/orsm-get-2 apr 03
+/home/mick/bin/orsm-get-2 apr 04
+/home/mick/bin/orsm-get-2 apr 05
+/home/mick/bin/orsm-get-2 apr 06 
+/home/mick/bin/orsm-get-2 apr 07
+/home/mick/bin/orsm-get-2 apr 08
+/home/mick/bin/orsm-get-2 apr 09
+/home/mick/bin/orsm-get-2 apr 10
+
+
+/home/mick/bin/orsm-get-2 may 00
+/home/mick/bin/orsm-get-2 may 01
+/home/mick/bin/orsm-get-2 may 02
+/home/mick/bin/orsm-get-2 may 03
+/home/mick/bin/orsm-get-2 may 04
+/home/mick/bin/orsm-get-2 may 05
+/home/mick/bin/orsm-get-2 may 06 
+/home/mick/bin/orsm-get-2 may 07
+/home/mick/bin/orsm-get-2 may 08
+/home/mick/bin/orsm-get-2 may 09
+/home/mick/bin/orsm-get-2 may 10
+
+
+/home/mick/bin/orsm-get-2 jun 00
+/home/mick/bin/orsm-get-2 jun 01
+/home/mick/bin/orsm-get-2 jun 02
+/home/mick/bin/orsm-get-2 jun 03
+/home/mick/bin/orsm-get-2 jun 04
+/home/mick/bin/orsm-get-2 jun 05
+/home/mick/bin/orsm-get-2 jun 06 
+/home/mick/bin/orsm-get-2 jun 07
+/home/mick/bin/orsm-get-2 jun 08
+/home/mick/bin/orsm-get-2 jun 09
+/home/mick/bin/orsm-get-2 jun 10
+
+/home/mick/bin/orsm-get-2 jul 00
+/home/mick/bin/orsm-get-2 jul 01
+/home/mick/bin/orsm-get-2 jul 02
+/home/mick/bin/orsm-get-2 jul 03
+/home/mick/bin/orsm-get-2 jul 04
+/home/mick/bin/orsm-get-2 jul 05
+/home/mick/bin/orsm-get-2 jul 06 
+/home/mick/bin/orsm-get-2 jul 07
+/home/mick/bin/orsm-get-2 jul 08
+/home/mick/bin/orsm-get-2 jul 09
+/home/mick/bin/orsm-get-2 jul 10
+
+/home/mick/bin/orsm-get-2 aug 00
+/home/mick/bin/orsm-get-2 aug 01
+/home/mick/bin/orsm-get-2 aug 02
+/home/mick/bin/orsm-get-2 aug 03
+/home/mick/bin/orsm-get-2 aug 04
+/home/mick/bin/orsm-get-2 aug 05
+/home/mick/bin/orsm-get-2 aug 06 
+/home/mick/bin/orsm-get-2 aug 07
+/home/mick/bin/orsm-get-2 aug 08
+/home/mick/bin/orsm-get-2 aug 09
+/home/mick/bin/orsm-get-2 aug 10
+
+/home/mick/bin/orsm-get-2 sep 00
+/home/mick/bin/orsm-get-2 sep 01
+/home/mick/bin/orsm-get-2 sep 02
+/home/mick/bin/orsm-get-2 sep 03
+/home/mick/bin/orsm-get-2 sep 04
+/home/mick/bin/orsm-get-2 sep 05
+/home/mick/bin/orsm-get-2 sep 06 
+/home/mick/bin/orsm-get-2 sep 07
+/home/mick/bin/orsm-get-2 sep 08
+/home/mick/bin/orsm-get-2 sep 09
+/home/mick/bin/orsm-get-2 sep 10
+
+/home/mick/bin/orsm-get-2 oct 00
+/home/mick/bin/orsm-get-2 oct 01
+/home/mick/bin/orsm-get-2 oct 02
+/home/mick/bin/orsm-get-2 oct 03
+/home/mick/bin/orsm-get-2 oct 04
+/home/mick/bin/orsm-get-2 oct 05
+/home/mick/bin/orsm-get-2 oct 06 
+/home/mick/bin/orsm-get-2 oct 07
+/home/mick/bin/orsm-get-2 oct 08
+/home/mick/bin/orsm-get-2 oct 09
+/home/mick/bin/orsm-get-2 oct 10
+
+/home/mick/bin/orsm-get-2 nov 00
+/home/mick/bin/orsm-get-2 nov 01
+/home/mick/bin/orsm-get-2 nov 02
+/home/mick/bin/orsm-get-2 nov 03
+/home/mick/bin/orsm-get-2 nov 04
+/home/mick/bin/orsm-get-2 nov 05
+/home/mick/bin/orsm-get-2 nov 06 
+/home/mick/bin/orsm-get-2 nov 07
+/home/mick/bin/orsm-get-2 nov 08
+/home/mick/bin/orsm-get-2 nov 09
+/home/mick/bin/orsm-get-2 nov 10
+
+/home/mick/bin/orsm-get-2 dec 00
+/home/mick/bin/orsm-get-2 dec 01
+/home/mick/bin/orsm-get-2 dec 02
+/home/mick/bin/orsm-get-2 dec 03
+/home/mick/bin/orsm-get-2 dec 04
+/home/mick/bin/orsm-get-2 dec 05
+/home/mick/bin/orsm-get-2 dec 06 
+/home/mick/bin/orsm-get-2 dec 07
+/home/mick/bin/orsm-get-2 dec 08
+/home/mick/bin/orsm-get-2 dec 09
+/home/mick/bin/orsm-get-2 dec 10
+
