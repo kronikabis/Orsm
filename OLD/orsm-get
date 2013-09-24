@@ -1,0 +1,11 @@
+#!/bin/bash
+dir=/home/mick/.orsm
+if [ ! -d $dir/orsm.net`date +%Y%m%d` ]; then
+	mkdir $dir/orsm.net`date +%Y%m%d`
+fi
+cd $dir/orsm.net`date +%Y%m%d`
+wget -qc www.orsm.net -O index.html
+for i in `cat index.html|grep mp4 |sed -e 's/<img[^>]*>//g' -e 's/>[^<,]*<//g' -e 's/\"\/a>//g' -e 's/<div[^>]*\"//g' -e 's/\"\ t[^>]*>//g' -e 's/<t[^>]*"//g' | grep -v href | sed -e 's/^[ ]*//' |tr -d '\r' | sed 's@php/movies.php?file=@@g'`; do
+wget -qc $i
+done
+rm index.html
