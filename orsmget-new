@@ -1,0 +1,17 @@
+#!/bin/bash
+
+cd $1
+
+curl www.orsm.net 2>&1 | grep -o -E 'href="([^"#]+)"' | cut -d'"' -f2 |grep mp4 | sed -e s/flow.php/download.php/g | while read vid
+do
+	wget -c $vid  
+done
+
+ls | while read name
+do
+	newname=`echo $name | sed -e 's/download.*%2F//g'`
+	echo $name 
+	echo $newname
+	mv $name $newname
+done
+
